@@ -5,9 +5,9 @@
 
 ## 3. Tag - 04.09.2026
 ### Meine Ziele
-1. In Python folgendes mit der Network Academy lernen Boolean Values, Conditional Execution, Loops, Lists and List Processing, Logical and Bitwise Operations
-2. Python Essentials 1, Modul 2 Test machen und bestehen
-3. PAP für LA_319_0601_InterprationTest machen
+1. Ich möchte mich mit dem deklarieren von Variablen in C# beschäftigen.
+2. Ich möchte mich mit Fussgesteuerten Iterationen in C# beschäftigen.
+3. Ich möchte mich mit Kopfgesteuerten Iterationen in C# beschäftigen.
 
 ## 2.Tag - 28.08.2026
 ### Meine Ziele
