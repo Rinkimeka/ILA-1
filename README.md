@@ -3,6 +3,12 @@
 1. Python Essentials 1 fertig machen.
 2. Python Essentials 2 fertig machen.
 
+## 4. Tag - 11.09.2026
+### Meine Ziele
+1. Ich möchte mich mit dem Modding Prozess von Videospielen auseinandersetzten, hier Hollow Knight.
+2. Ich möchte mich mit Data Types, Variables, Operators und Basic I/O Operators in Python beschäftigen.
+3. Ich möchte mich mit Neovim ausseinandersetzen.
+
 ## 3. Tag - 04.09.2026
 ### Meine Ziele
 1. Ich möchte mich mit dem deklarieren von Variablen in C# beschäftigen.
