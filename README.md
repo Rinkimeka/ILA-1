@@ -3,6 +3,12 @@
 1. Python Essentials 1 fertig machen.
 2. Python Essentials 2 fertig machen.
 
+## 5. Tag - 18.09.2026
+### Meine Ziele
+1. Ich möchte meine installierten Hollow Knight mods auf Bugs und Fehler überprüfen um mehr über Komptabilität zu verstehen.
+2. Ich möchte das Test Modell Iperka auf meinen Modding Prozess anwenden.
+3. Ich möchte einen kleinen Erklär Bericht über meinen Modding Prozess schreiben.
+   
 ## 4. Tag - 11.09.2026
 ### Meine Ziele
 1. Ich möchte mich mit dem Modding Prozess von Videospielen auseinandersetzten, hier Hollow Knight.
