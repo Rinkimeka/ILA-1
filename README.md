@@ -3,6 +3,12 @@
 1. Python Essentials 1 fertig machen.
 2. Python Essentials 2 fertig machen.
 
+## 6. Tag - 25.09.2026
+### Meine Ziele
+1. Ich möchte Python Essentials 1 weiterbearbeiten und möglichst abschliessen.
+2. Ich möchte Python Essentials 2 beginnen und die ersten Module bearbeiten.
+3. Ich möchte Arrays/Listen in Python besser verstehen und dazu einige Übungen lösen.
+
 ## 5. Tag - 18.09.2026
 ### Meine Ziele
 1. Ich möchte meine installierten Hollow Knight mods auf Bugs und Fehler überprüfen um mehr über Komptabilität zu verstehen.
