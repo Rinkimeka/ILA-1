@@ -1,8 +1,7 @@
-#Lern-Atelier 1
+# Lern-Atelier 1
 ## Meine Ziele
 1. Python Essentials 1 fertig machen.
-2. Python Essentials 2 fertig machen.
-
+   
 ## 6. Tag - 25.09.2026
 ### Meine Ziele
 1. Ich möchte Python Essentials 1 weiterbearbeiten und möglichst abschliessen.
